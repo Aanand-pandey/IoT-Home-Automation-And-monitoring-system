@@ -94,9 +94,3 @@ Blynk.virtualWrite(V3, distance);
   Blynk.virtualWrite(V7, pirState);
   Blynk.virtualWrite(V8, !irState);
 }
-
-## Working
-The ESP32 connects to WiFi and communicates with the Blynk app. Users can control devices and monitor sensor data in real-time.
-
-## Author
-Anand Pandey
