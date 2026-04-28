@@ -1,5 +1,5 @@
 # IoT Home Automation and Monitoring System
-
+![image alt](https://raw.githubusercontent.com/Anand8689/IoT-Home-Automation-And-monitoring-system/98380f182f38c96788b867e42e601984c997b2ef/Screenshot%20(32).png)
 An ESP32 and Blynk-based smart home automation project that allows users to control and monitor appliances remotely using a mobile app.
 
 ## Features
